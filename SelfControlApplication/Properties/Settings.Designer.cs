@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace selfControlApp.Properties
+namespace SelfControlApplication.Properties
 {
 
 
