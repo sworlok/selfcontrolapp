@@ -7,10 +7,6 @@ Windows XP/Vista/7/8/8.1/10
 
 [.NET Framework 3.5] (https://www.microsoft.com/ru-ru/download/details.aspx?id=21)
 
-Известные проблемы:
--------------------
-- Не добавляет кириллические домены.
-
 В планах:
 ---------
 - Английская локализация
